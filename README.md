@@ -18,3 +18,6 @@ The process is pre-configured for ease of use. No technical execution is require
 
 ## ⚠️ Liability Notice
 The user assumes all responsibility for content accessed once school-level web filtering is removed. This tool is provided "as-is".
+
+## The wifi provided by the school has a filtering service meaning that once you are connected to it you are unable to view certain content. This applies to even if you connected your phone to the school wifi. This cannot be bypassed however connecting to mobile data can fix this.
+Currently trying to see if staff wifi does the same
